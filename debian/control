@@ -9,6 +9,6 @@ Homepage: https://github.com/lliurex/rebost
 
 Package: accesshelper-data
 Architecture: all
-Depends: ${python3:Depends},accesshelper
+Depends: accesshelper
 Description: Default profiles for accesshelper
  Set of preconfigured profiles
