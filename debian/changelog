@@ -1,4 +1,4 @@
-accesshelper-data (0.5) focal; urgency=medium
+accesshelper-data (0.5.1) focal; urgency=medium
 
   * Add dconf config for onboard
   * Updated profiles
