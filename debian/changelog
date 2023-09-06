@@ -1,3 +1,9 @@
+accesshelper-data (0.5.2lliurex23) jammy; urgency=medium
+
+  * Jammy release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 06 Sep 2023 08:38:32 +0200
+
 accesshelper-data (0.5.2) focal; urgency=medium
 
   * Add dconf config for onboard
